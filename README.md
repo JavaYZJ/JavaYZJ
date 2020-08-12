@@ -15,5 +15,9 @@ YangZhiJie .builder()
            .challenge("I am building a set of middleware (component) of honey series ");
 ```
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://t.me/ihemantjoshi">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+---
 
