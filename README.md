@@ -15,14 +15,7 @@ YangZhiJie .builder()
            .architecture(Lists.newArrayList("MicroServices such as Spring Alibaba Cloud", "Design Pattern"))
            .challenge("I am building a set of middleware (component) of honey series ");
 ```
-<br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br/>
-<a href="https://twitter.com/8bithemant">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 
 
 Here are some ideas to get you started:
